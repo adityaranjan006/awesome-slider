@@ -1,2 +1,3 @@
-This is the readme file of "Awesome Slider"
-Resusable easy to use components.
+# **Awesome Slider**
+
+**Reusable, easy-to-use slider components for modern web applications.**
